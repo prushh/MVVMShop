@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShopOnline</string>
+    <!-- LoginFragment and SignInFragment layout -->
+    <string name="content_description_logo">Logo</string>
+    <string name="content_description_person">Insert username</string>
+    <string name="content_description_email">Insert email</string>
+    <string name="content_description_lock">Insert password</string>
+    <string name="content_description_product_image">Product image</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="button_login">Login</string>
+    <string name="button_sign_in">Sign in</string>
+    <string name="err_field_empty">Some fields are empty</string>
+    <string name="err_email">Not valid email</string>
+    <string name="sign_in_message">Don\'t have an account?</string>
+    <string name="sign_in_underline"><u>Sign in</u></string>
+    <string name="balance_message">You receive 200€ after registration!</string>
+    <!-- LoginFragment/SignInFragment response -->
+    <string name="sign_in_ok">Successful sign in!</string>
+    <string name="auth_ok">Successful login!</string>
+    <string name="check_ok">Credentials checked!</string>
+    <!-- ProfileFragment layout -->
+    <string name="add_coupon_ok">Coupon applied successfully!</string>
+    <string name="apply_coupon">Apply</string>
+    <string name="content_description_coupon">Insert coupon</string>
+    <string name="username_bold"><![CDATA[<b>Username:</b> %s]]></string>
+    <string name="balance_bold"><![CDATA[<b>Balance:</b> %.2f €]]></string>
+    <string name="not_valid_coupon">Not valid coupon!</string>
+    <!-- BottomNav, ActionBar and ProductFragment layout -->
+    <string name="title_shop">Catalog</string>
+    <string name="title_saved">Saved</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_archive">Archive</string>
+    <string name="title_refresh">Refresh</string>
+    <string name="title_more">More</string>
+    <string name="title_balance">Balance</string>
+    <string name="title_logout">Logout</string>
+    <string name="title_back">Back</string>
+    <string name="category">Category:\u0020 %s</string>
+    <string name="price">Price:\u0020 %.2f €</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="quantity">Quantity:\u0020 %d</string>
+    <string name="save_at">Saved:\u0020 %s</string>
+    <string name="empty_database">Database is empty…</string>
+    <string name="empty_archive">Archive is empty…</string>
+    <!-- ExitDialog on back pressed -->
+    <string name="title_exit_dialog">Exit</string>
+    <string name="message_exit_dialog">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <!-- Snackbar messages and option -->
+    <string name="snack_buy_ok">Product buy successfully: %.2f € left</string>
+    <string name="snack_no_credit">Ops…\u0020 Your balance is %.2f € </string>
+    <string name="snack_not_available">Product not available</string>
+    <string name="snack_save_ok">Product saved successfully</string>
+    <string name="snack_delete_ok">Successfully deleted product</string>
+    <string name="snack_undo">Undo</string>
+    <!-- Wallet message -->
+    <string name="balance">Your balance is %.2f €</string>
+    <!-- API error response -->
+    <string name="error_occurred">An error occurred:\u0020 %s</string>
+    <!-- Serializable arg name -->
+    <string name="arg">product</string>
+    <!-- Date pattern -->
+    <string name="date_pattern">dd/MM/yyyy HH:mm</string>
+    <!-- ViewModel resource error -->
+    <string name="err_internet">No internet connection</string>
+    <string name="err_network">Network error</string>
+    <string name="err_conversion">Conversion error</string>
+</resources>
