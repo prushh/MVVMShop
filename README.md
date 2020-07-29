@@ -21,6 +21,7 @@ Project for the "Programming III" course, University of Perugia (2019-2020)
 - [x] logout process
 - [x] automatic login with shared preferences
 - [x] show product catalog
+- [x] show more product information
 - [x] buy a single product
 - [x] save a single product
 - [x] show purchased products
