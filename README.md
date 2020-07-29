@@ -19,6 +19,7 @@ Project for the "Programming III" course, University of Perugia (2019-2020)
 - [x] authentication process
 - [x] registration process
 - [x] logout process
+- [x] automatic login with shared preferences
 - [x] show product catalog
 - [x] buy a single product
 - [x] save a single product
@@ -26,6 +27,7 @@ Project for the "Programming III" course, University of Perugia (2019-2020)
 - [x] show products saved in local db
 - [x] show profile information with the wallet balance
 - [x] add coupons section
+- [x] check internet connectivity
 - [ ] save products for a single user
 - [ ] use dependency injection ([Dagger-Hilt](https://developer.android.com/training/dependency-injection/hilt-android))
 - [ ] testing
